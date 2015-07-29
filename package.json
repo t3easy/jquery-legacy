@@ -1,0 +1,18 @@
+{
+  "name": "jquery-legacy",
+  "version": "1.0.0",
+  "description": "Wrapper for legacy jQuery",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t3easy/jquery-legacy.git"
+  },
+  "author": "Jan Kiesewetter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/t3easy/jquery-legacy/issues"
+  },
+  "homepage": "https://github.com/t3easy/jquery-legacy",
+  "dependencies": {
+    "jquery": "^1"
+  }
+}
